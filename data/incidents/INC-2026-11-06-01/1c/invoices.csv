@@ -1,0 +1,2 @@
+﻿invoice_id;po_id;supplier_id;amount_rub;status;due_date;comment
+INV-2026-11-0311;PO-2026-11-0142;SUP-001-S01;1344000.0;disputed;2026-11-07;Счёт на 1,344,000 ₽, в договоре 1,280,000 ₽

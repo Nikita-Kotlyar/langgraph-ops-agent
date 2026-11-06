@@ -1,0 +1,3 @@
+﻿order_id;order_date;delivery_date;customer_id;customer_name;status;priority;manager;total_rub;currency
+ORD-2026-01201;2026-10-20;2026-11-13;CUST-002-S01;АО «Энергосеть» (01);confirmed;high;Гусев Д.И.;4665090.0;RUB
+ORD-2026-01202;2026-10-28;2026-11-27;CUST-006-S01;ООО «ЭлектроТрейд» (01);confirmed;low;Гусев Д.И.;4191635.0;RUB

@@ -1,0 +1,2 @@
+﻿po_id;supplier_id;supplier_name;material_id;qty_kg;price_rub_kg;contract_price_rub_kg;requested_date;confirmed_date;status;block_reason;paid;invoice_id;comment
+PO-2026-11-0142;SUP-001-S01;ООО «МедьПром» (01);MAT-CU-2.5;2000.0;672.0;640.0;2026-11-07;2026-11-12;blocked;price_variance;false;INV-2026-11-0311;Цена в счёте выше договорной на 5.0% (64,000 ₽). Нужно согласование закупки.

@@ -1,0 +1,4 @@
+﻿sku;material_id;qty_per_km;unit;source
+CBL-KVVG-5x6-S09;MAT-CU-2.5;280.035;кг;config/products.csv + технологический коэффициент 1.05
+CBL-KVVG-7x1,5-S08;MAT-CU-2.5;98.012;кг;config/products.csv + технологический коэффициент 1.05
+CBL-VVG-LS-3x6-S03;MAT-CU-2.5;168.021;кг;config/products.csv + технологический коэффициент 1.05

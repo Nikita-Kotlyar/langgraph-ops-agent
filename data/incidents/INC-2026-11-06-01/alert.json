@@ -1,0 +1,14 @@
+{
+  "incident_id": "INC-2026-11-06-01",
+  "source": "MES",
+  "received_at": "2026-11-06T08:12:00+03:00",
+  "severity": "P1",
+  "machine_id": "MC-044",
+  "workshop": "Цех 11",
+  "order_id": "ORD-2026-01201",
+  "work_order_id": "WO-2026-11-0601",
+  "status": "blocked",
+  "reason_code": "MATERIAL_WAIT",
+  "message": "Линия MC-044 остановлена в 08:12. Задание WO-2026-11-0601 по заказу ORD-2026-01201 не может быть начато: нет медной проволоки.",
+  "reported_by": "Мастер смены Орлов П.Н."
+}

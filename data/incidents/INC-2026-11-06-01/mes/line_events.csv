@@ -1,0 +1,6 @@
+﻿event_id;timestamp;machine_id;work_order_id;event;reason_code;comment
+EV-0001;2026-11-06 07:55:00;MC-044;WO-2026-11-0601;setup_start;;Оператор приступил к наладке
+EV-0002;2026-11-06 08:05:00;MC-044;WO-2026-11-0601;material_request;MATERIAL_WAIT;Запрошена проволока со склада
+EV-0003;2026-11-06 08:10:00;MC-044;WO-2026-11-0601;material_shortage;MATERIAL_WAIT;Кладовщик: свободного остатка нет
+EV-0004;2026-11-06 08:12:00;MC-044;WO-2026-11-0601;line_stop;MATERIAL_WAIT;Линия остановлена
+EV-0005;2026-11-06 08:20:00;MC-044;WO-2026-11-0601;escalation;MATERIAL_WAIT;Инцидент передан диспетчеру

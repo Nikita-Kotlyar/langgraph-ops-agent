@@ -1,0 +1,25 @@
+{
+  "customer_id": "CUST-002-S01",
+  "name": "АО «Энергосеть» (01)",
+  "segment": "проект",
+  "manager": "Гусев Д.И.",
+  "credit_limit_rub": 5000000.0,
+  "payment_days": 45,
+  "order": {
+    "order_id": "ORD-2026-01201",
+    "order_date": "2026-10-20",
+    "delivery_date": "2026-11-13",
+    "priority": "high",
+    "value_rub": 4665090.0,
+    "status": "confirmed",
+    "contract_id": "Д-2026-0417",
+    "penalty_rate_per_day": 0.003,
+    "penalty_cap_share": 0.1,
+    "partial_shipment_allowed": true,
+    "partial_shipment_note": "Только по письменному согласованию с клиентом"
+  },
+  "notes": [
+    "Клиент стратегический, проект по электроснабжению объекта.",
+    "Менеджер подтвердил: перенос срока критичен, но частичная отгрузка допустима после согласования."
+  ]
+}

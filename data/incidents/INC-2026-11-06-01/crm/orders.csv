@@ -1,0 +1,3 @@
+﻿order_id;customer_id;value_rub;delivery_date;penalty_rate_per_day;penalty_cap_share;partial_shipment_allowed
+ORD-2026-01201;CUST-002-S01;4665090.0;2026-11-13;0.003;0.1;true
+ORD-2026-01202;CUST-006-S01;4191635.0;2026-11-27;0.0005;0.05;true

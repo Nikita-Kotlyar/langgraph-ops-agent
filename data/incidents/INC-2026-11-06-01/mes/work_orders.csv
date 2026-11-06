@@ -1,0 +1,4 @@
+﻿work_order_id;order_id;sku;qty;unit;machine_id;workshop;status;planned_start;planned_end;actual_start;stop_reason;stop_since
+WO-2026-11-0601;ORD-2026-01201;CBL-KVVG-5x6-S09;4000;м;MC-044;Цех 11;blocked;2026-11-06;2026-11-08;;MATERIAL_WAIT;2026-11-06 08:12
+WO-2026-11-0602;ORD-2026-01201;CBL-KVVG-7x1,5-S08;2500;м;MC-045;Цех 11;planned;2026-11-09;2026-11-10;;;
+WO-2026-11-0603;ORD-2026-01201;CBL-VVG-LS-3x6-S03;2000;м;MC-046;Цех 11;planned;2026-11-10;2026-11-11;;;

@@ -1,0 +1,2 @@
+﻿material_id;material_name;warehouse;balance_kg;reserved_kg;quality_hold_kg;safety_stock_kg;available_kg;unit;snapshot_at
+MAT-CU-2.5;Проволока медная ММ 2,5 мм;Склад сырья;2400.0;1650.0;250.0;300.0;200.0;кг;2026-11-06 08:00:00

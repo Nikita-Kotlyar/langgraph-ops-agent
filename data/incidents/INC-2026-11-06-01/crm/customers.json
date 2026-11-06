@@ -1,0 +1,20 @@
+[
+  {
+    "customer_id": "CUST-002-S01",
+    "name": "АО «Энергосеть» (01)",
+    "segment": "проект",
+    "manager": "Гусев Д.И.",
+    "email": "client2.s01@example.ru",
+    "credit_limit_rub": 5000000.0,
+    "payment_days": 45
+  },
+  {
+    "customer_id": "CUST-006-S01",
+    "name": "ООО «ЭлектроТрейд» (01)",
+    "segment": "опт",
+    "manager": "Гусев Д.И.",
+    "email": "client6.s01@example.ru",
+    "credit_limit_rub": 5000000.0,
+    "payment_days": 14
+  }
+]

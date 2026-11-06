@@ -1,0 +1,3 @@
+﻿reservation_id;material_id;order_id;qty_kg;status;created_at;comment
+RES-2026-1101;MAT-CU-2.5;ORD-2026-01202;1650.0;active;2026-11-04 16:40:00;Резерв под производство, отгрузка 27.11
+RES-2026-1102;MAT-CU-2.5;ORD-2026-01151;0.0;released;2026-11-03 10:15:00;Резерв снят после выполнения заказа
